@@ -1,5 +1,9 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Asset Pipeline Poem
 
+**Reflection**
+
+This training helped identify how assets weave together into a Rails app and as well as some of the structure I need to be aware of. It makes a lot of sense especially after the lecture but, as always, walking through it to see the steps is really important in solidifying the concepts. I now has a good reference point in how I need to structure and order my assets so my content displays in the way it's intended. It was fun! 
+
 **Objective:** Practice requiring CSS and JavaScript files in the Rails asset pipeline and precompiling assets.
 
 **Terms:**
